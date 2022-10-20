@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav a{  
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 5px;
+    float: right ;
+    font-family:sans-serif }
+
+.nav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    }
+
+
+.nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+}
+
+p{
+    color: rgb(255, 240, 240);
+    padding: 20px; 
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 10% 20%;
+    font-size: 78px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+a {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 22%;
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.739);
+}
+
+
+
+
+.follow p1{
+    float: center;
+    margin-right: 5px;
+}
+
+
+.follow {
+    text-align: center;
+    padding: 1% 1%;
+    font-size: 15px;
+}
+.socmed a img {
+    width: 2.5%;
+    margin-top: 0%;
+    text-align: center;
+    margin-bottom: 1%;
+
+}
+
+.hr2 hr{
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 0%;
+    
+    
+}
+
+
+footer {
+    margin-top: 0%;
+    background-color: rgba(0, 0, 0, 0.527);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+  
+}
+
+.button a {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: 20px;
+    border-radius: 9px;
+}

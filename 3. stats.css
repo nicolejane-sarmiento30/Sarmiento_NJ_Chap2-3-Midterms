@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav a{  
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 3px;
+    float: right ;
+    font-family:sans-serif }
+
+.nav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    }
+
+
+.nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+    
+}
+
+table {
+    width: 300px;
+    padding: 2%;
+    margin: 2%;
+    margin-left:0.8%;
+    text-align: center;
+    
+}
+
+
+
+th {
+    text-align: center;
+    background-color: rgb(97, 97, 97);
+    color: white;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+table th td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1.4%;
+} 
+
+
+td{
+    background-color: rgba(173, 172, 172, 0.432);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th td {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+
+
+.p1{
+    padding-top: 2px;
+}
+
+
+.socmed a img {
+    width: 2.5%;
+    margin-top: 0%;
+    text-align: center;
+    margin-bottom: 1%;
+
+}
+
+
+td {
+    font-weight: bold;
+}
+.hr2 hr{
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+    
+}
+
+.follow {
+    text-align: center;
+    padding: 1% 1%;
+    font-size: 15px;
+}
+
+.follow p1 {
+    float: center;
+    margin-right: 5px;
+}
+
+
+footer {
+    margin-top: 20%;
+    background-color: rgba(0, 0, 0, 0.527);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+  
+}

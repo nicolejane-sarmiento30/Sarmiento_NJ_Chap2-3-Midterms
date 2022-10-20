@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nekol header {
+    height: 20%;
+    width: 50%;
+    float: right;
+    margin-left: 5px;
+    margin-right: 100px;
+    margin-top: 11px;
+    margin-left: 5%;
+    padding: 30px;
+    font-size: 120%;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #000000bb;
+    color: rgb(255, 255, 255);
+}
+
+.nekol img {
+    width: 30%;
+    float: left;
+    margin-left: 7%;
+    margin-right: 5px;
+    margin-top: 3%;
+    padding: 16px;
+}
+
+.nekol p {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-left: 5px;
+    margin-right: 100px;
+    padding: 30px;
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a0a0a073;
+    color: black;
+    text-align: justify;
+}
+
+
+.nav a{  
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 5px;
+    float: right ;
+    font-family:sans-serif }
+
+.nav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    }
+
+
+.nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+    
+}
+
+
+p{
+    color: rgb(255, 255, 255);
+    padding: 20px; 
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p1{
+    padding-top: 2px;
+}
+
+.socmed a img {
+    width: 2.5%;
+    margin-top: 0%;
+    text-align: center;
+    margin-bottom: 1%;
+
+}
+
+
+.follow {
+    text-align: center;
+    padding: 1% 1%;
+    font-size: 15px;
+}
+
+.follow p1 {
+    float: center;
+    margin-right: 5px;
+}
+
+
+.line2 {
+    background-color: rgb(0, 0, 0);
+    
+    margin-top: 44%;
+}
+
+
+footer {
+    margin-top: 45%;
+    background-color: rgba(0, 0, 0, 0.527);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+  
+}
+

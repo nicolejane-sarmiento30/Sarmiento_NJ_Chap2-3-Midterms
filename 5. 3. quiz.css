@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav a{  
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 5px;
+    float: right ;
+    font-family:sans-serif }
+
+.nav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    }
+
+
+.nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+}
+
+
+   body {
+        background-color: rgba(255, 255, 255, 0.479);
+    
+    }   
+
+    p{
+        color: rgb(255, 255, 255);
+        padding: 20px; 
+        padding-top: 20px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    h3 {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+   select {
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: bold;
+       font-size: 15px;
+       background-color: rgb(255, 255, 255);
+       padding-block: 2px;
+       color: rgb(0, 0, 0);
+   }
+
+.test2 h1 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+}
+
+    .container {
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-left: 1%;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        padding-right: 1%;
+        background-color: rgba(189, 189, 189, 0.548);
+        font-size: 15px;
+        
+    }
+
+    .container form select {
+        font-weight: normal;
+    }
+
+    .container h3 {
+        font-weight: normal;
+        font-size: 18px;
+    }
+
+    .direction {
+        color: white;
+        background-color: rgb(87, 87, 87);
+        padding-left: 1%;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        padding-right: 1%;
+        margin-left: 20%;
+        margin-right: 20%;
+        font-size: 15px;
+        font-weight: lighter;
+    }
+
+    .direction h3 {
+        font-size: 20px;
+      font-weight: normal;
+  }
+
+
+
+    .button a {
+        color: rgb(255, 255, 255);
+        background-color: black;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        font-size: 20px;
+        border-radius: 9px;
+       
+    }
+    
+    h5{
+        color: rgb(0, 0, 0);
+        padding: 20px; 
+        padding-top: 20px;
+        font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: normal;
+    }
+
+      
+.hr2 hr{
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+    
+}
